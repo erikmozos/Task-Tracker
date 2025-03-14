@@ -1,0 +1,22 @@
+[
+     {
+          "description": "aña2",
+          "status": 1,
+          "createdAt": 1741976074097,
+          "updatedAt": 1741976074097
+     },
+     {
+          "id": null,
+          "description": "aña2",
+          "status": 1,
+          "createdAt": 1741976078255,
+          "updatedAt": 1741976078255
+     },
+     {
+          "id": 1,
+          "description": "aña2",
+          "status": 1,
+          "createdAt": 1741976101061,
+          "updatedAt": 1741976101061
+     }
+]
